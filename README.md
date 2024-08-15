@@ -1,7 +1,7 @@
-# Projeto com README
-Um projeto de teste com um arquivo README 
-🟡
 [<img src="teste.gif" alt="gif personalizado de teste">](https://google.com)
+
+# Projeto com README
+Um projeto de teste com um arquivo README: 🟡
 
 ## Tecnologias utilizadas
 - HTML
